@@ -1,5 +1,5 @@
 # Desperately seeking standards: using text processing to save your eyesight
-By Halle Burns and Susan B. Wainscott
+By [Halle Burns](https://orcid.org/0000-0003-2346-2876) and [Susan B. Wainscott](https://orcid.org/0000-0001-9994-0956)
 
 ## Purpose/Hypothesis
 We aim to analyze our standards-use and document-delivery-request data on a more regular basis to inform collections management decisions.  However, manually searching for standards titles is time consuming and unlikely to occur on a regular basis. We developed and are assessing an open source text processing tool to flag potential standards mentioned in text and tabular datasets. We believe that this method will be more efficient than manual searching and suitable for regular assessment purposes.
