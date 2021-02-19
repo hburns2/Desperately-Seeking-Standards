@@ -1,0 +1,2 @@
+# Desperately-Seeking-Standards
+We aim to analyze our standards-use and document-delivery-request data on a more regular basis to inform collections management decisions.  However, manually searching for standards titles is time consuming and unlikely to occur on a regular basis. We developed and are assessing an open source text processing tool to flag potential standards mentioned in text and tabular datasets. We believe that this method will be more efficient than manual searching and suitable for regular assessment purposes.
