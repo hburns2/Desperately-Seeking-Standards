@@ -1,4 +1,4 @@
-# Desperately seeking standards: using text processing to save your eyesight
+# Desperately seeking standards: using text processing to save your time
 By [Halle Burns](https://orcid.org/0000-0003-2346-2876) and [Susan B. Wainscott](https://orcid.org/0000-0001-9994-0956)
 
 ## Purpose/Hypothesis
